@@ -24,6 +24,7 @@ video player" frameborder="0" allow="accelerometer; autoplay; clipboardwrite; en
 ### Schedule of Masses
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+
 |--------|--------|---------|-----------|----------|--------|----------|
 
 | 5:0 0am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
