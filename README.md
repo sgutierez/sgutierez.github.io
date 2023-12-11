@@ -27,3 +27,4 @@ Tobio Kageyama
 Shōyō Hinata
 - Middle Blocker 
 
+
